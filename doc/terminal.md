@@ -11,5 +11,6 @@
 
 全て設定すると画像のようになります。
 
-<img width="454" alt="image" src="https://github.com/user-attachments/assets/08fa95fe-1c8a-4eb0-8f38-8b308fb6fed2" />
+<img width="983" alt="image" src="https://github.com/user-attachments/assets/4190d136-72ab-4683-b3cf-f5e1e7d47b8b" />
+
 
