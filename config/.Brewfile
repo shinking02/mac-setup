@@ -1,6 +1,8 @@
 brew "mas"
+brew "powerlevel10k"
 cask "1password"
 cask "google-chrome"
+cask "hammerspoon"
 cask "kitty"
 cask "mos"
 cask "rectangle"
