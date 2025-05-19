@@ -6,3 +6,4 @@ macOS標準でもウインドウの分割はできますが、ショートカッ
 初回起動時に、macOSと本アプリケーションの競合をどうするか聞かれるのでmacOS側を無効にします。
 
 ## 設定
+[RectangleConfig.json](https://github.com/shinking02/mac-setup/blob/main/config/RectangleConfig.json)をダウンロードし、アプリ内でインポートしてください。
